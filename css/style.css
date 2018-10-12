@@ -1,0 +1,14 @@
+/*
+* Colocando el H1 en rojo
+ */
+h1 {
+	color: red;
+	opacity: 0.5;
+}
+
+/*
+* Colocando en azul todo el cuerpo
+ */
+body{
+	background-color: blue;
+}
